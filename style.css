@@ -1,0 +1,35 @@
+@media screen and (min-width: 750px) {
+    div {
+        background-color:aliceblue;
+    }
+    h1{
+        font-size: 30px;
+    }
+    p {
+        font-size: 25px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    div {
+        background-color: cornsilk;
+    }
+    h1 {
+        font-size: 40px;
+    }
+    p {
+        font-size: 35px;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    div {
+        background-color: lightblue;
+    }
+    h1 {
+        font-size: 50px;
+    }
+    p {
+        font-size: 40px;
+    }
+}
